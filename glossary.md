@@ -35,6 +35,7 @@
 |Section |**صیغہ**|
 |Settings |**ترتیبات**|
 |System |**سسٹم**|
+|Sync |**ہمہ وقت سازی**|
 |Theme|**تھیم**|
 |Toolbar |**ٹولبار**|
 |Tracker/Trackers |**ٹریکر**|
