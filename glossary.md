@@ -38,6 +38,7 @@
 |URI|**URI**|
 |URL|**URL**|
 |Window |**ونڈوں**|Relevant to browser window not OS|
+|Bug |**بگ**|
 
 
 #### Words(Brand names) to be used as it is:
