@@ -39,6 +39,7 @@
 |Sync |**ہمہ وقت سازی**|
 |Theme|**تھیم**|
 |Toolbar |**ٹولبار**|
+|Toggle |**ٹوگل **|
 |Tracker/Trackers |**ٹریکر**|
 |URI|**URI**|
 |URL|**URL**|
