@@ -23,6 +23,7 @@
 |HTTP/HTTPS|**HTTP/HTTPS**|
 |Inactive/Disable |**غیر فعال**|
 |Install |**انسٹال**|
+|Key |**کلید**|
 |Layout |**لےآؤٹ**|
 |Manage |**منظم**|
 |Location |**موجودہ مقام**|
