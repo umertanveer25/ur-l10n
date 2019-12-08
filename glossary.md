@@ -24,6 +24,7 @@
 |Inactive/Disable |**غیر فعال**|
 |Install |**انسٹال**|
 |Key |**کلید**|
+|Keyboard |**کلیدتختی**|
 |Layout |**لےآؤٹ**|
 |Manage |**منظم**|
 |Location |**موجودہ مقام**|
