@@ -13,6 +13,7 @@
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
 |Debugger |**ڈبگگر**|
+|Delete |**حذف**|
 |Edit |**تدوین**|
 |Editor |**ایڈیٹر**|
 |Enduser |**صارف**|
