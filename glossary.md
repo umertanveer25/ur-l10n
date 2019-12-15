@@ -4,6 +4,7 @@
 | Addons  |**ایڈ اون**|
 |Advertisement/Ads|**اشتہار**|
 | API  |**API**|
+|Approved |**منظور شدہ**|
 |Articles |**مضامین**|
 |Auto|**خودبخود**|
 |Autoscroll  |**خودبخود سکرال**|
