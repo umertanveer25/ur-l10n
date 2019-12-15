@@ -7,6 +7,7 @@
 |Autoscroll  |**خودبخود سکرال**|
 |Bookmark  |**بکمارک**|
 |Browsing |**براؤزنگ**|
+|Categories |**زمرہ جات**|
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
 |Debugger |**ڈبگگر**|
