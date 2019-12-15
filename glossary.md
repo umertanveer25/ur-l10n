@@ -13,6 +13,7 @@
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
 |Debugger |**ڈبگگر**|
+|Dark |**گہرا**|
 |Delete |**حذف**|
 |Edit |**تدوین**|
 |Editor |**ایڈیٹر**|
