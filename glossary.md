@@ -12,8 +12,8 @@
 |Bug |**بگ**|
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
-|Debugger |**ڈبگگر**|
 |Dark |**گہرا**|
+|Debugger |**ڈبگگر**|
 |Delete |**حذف**|
 |Edit |**تدوین**|
 |Editor |**ایڈیٹر**|
