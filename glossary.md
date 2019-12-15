@@ -12,6 +12,7 @@
 |Bookmark  |**بکمارک**|
 |Browsing |**براؤزنگ**|
 |Bug |**بگ**|
+|Certificate |**تصدیق نامہ**|
 |Comment |**تبصرہ**|
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
