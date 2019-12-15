@@ -12,6 +12,7 @@
 |Bookmark  |**بکمارک**|
 |Browsing |**براؤزنگ**|
 |Bug |**بگ**|
+|Comment |**تبصرہ**|
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
 |Dark |**گہرا**|
