@@ -13,6 +13,7 @@
 |Browsing |**براؤزنگ**|
 |Bug |**بگ**|
 |Certificate |**تصدیق نامہ**|
+|Check |**پڑتال**|
 |Comment |**تبصرہ**|
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
