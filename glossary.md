@@ -18,6 +18,7 @@
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
 |Dark |**گہرا**|
+|Data |**کوائف**|
 |Debugger |**ڈبگگر**|
 |Delete |**حذف**|
 |Edit |**تدوین**|
