@@ -23,7 +23,7 @@
 |Delete |**حذف**|
 |Edit |**تدوین**|
 |Editor |**ایڈیٹر**|
-|Enduser |**صارف**|
+|End user / User |**صارف**|
 |Extension |**ایکسٹینشن**|
 |Feature|**خصوصیات**|
 |File |**فائل**|
